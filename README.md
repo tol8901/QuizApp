@@ -1,5 +1,5 @@
 # Quiz
-It is a  learning project - quiz application. Questions of the quiz are loaded from the server and show to the customer. When the customer clicked to the answer, the color indication will appear (that answer is correct or not). After the passed quiz it is possible to save the results and the name of the participant. 
+It is a  learning project - quiz application. Questions of the quiz are loaded from the server and show to the customer. When the customer clicked to the answer, the color indication will appear (that answer is correct or not). 
 
 Screenshots:
 
