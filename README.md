@@ -3,7 +3,7 @@ It is a  learning project - quiz application. Questions of the quiz are loaded f
 
 Screenshots:
 
-![Screenshot_1](https://user-images.githubusercontent.com/39213432/90158445-ac601680-dd97-11ea-9d3f-9cc1640595ae.png)
+![Screenshot_1](https://user-images.githubusercontent.com/39213432/90158693-fc3edd80-dd97-11ea-8b53-ca3b79c299b6.png)
 
 ![Screenshot_2](https://user-images.githubusercontent.com/39213432/90158451-ad914380-dd97-11ea-81d5-fc003fd30f22.png)
 
