@@ -1,4 +1,4 @@
-# Qpick Quiz App
+# Quick Quiz App
 
 # Description
 
