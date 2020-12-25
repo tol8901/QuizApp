@@ -1,8 +1,8 @@
-# Quiz
+# Qpick Quiz App
 
 # Description
 
-It is a  learning project - quiz application. Questions of the quiz are loaded from the server and show to the customer. When the customer clicked to the answer, the color indication will appear (that answer is correct or not). 
+It is a  little quiz application. Questions of the quiz are loaded from the server and show to the customer. When the customer clicked on the answer, the color indication will appear (that answer is correct or not). 
 
 # Available
 
